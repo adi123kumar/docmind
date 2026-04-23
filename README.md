@@ -3,7 +3,7 @@
 A production-grade RAG (Retrieval-Augmented Generation) system powered by an AI agent that reasons, self-corrects, and falls back to web search when needed.
 
 ## 🚀 Live Demo
-[Click here to try DocMind](#) ← replace with Streamlit URL after deployment
+[Click here to try DocMind](https://docmind-aditya.streamlit.app/) 
 
 ## 🎯 What DocMind Does
 Upload any PDF or Word document and ask questions about it in plain English. DocMind doesn't just search — it uses an AI agent to reason about how to find the best answer, self-correct if results are poor, and fall back to web search when the document doesn't contain the answer.
