@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-groq
+langgraph
+chromadb
+streamlit
+pymupdf
+python-docx
+rank-bm25
+sentence-transformers
+tavily-python
+python-dotenv
+docx2txt
+pypdf
+langchain-text-splitters
+langchain-tavily 
